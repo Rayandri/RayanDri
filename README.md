@@ -62,5 +62,24 @@ I am the CTO of multiple crypto projects (including a token that reached a $90M 
 
 ---
 
+## 📊 My Github Stats
+
+<p align="center">
+  <a href="https://github.com/Rayandri">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rayandri&theme=transparent" />
+  </a>
+  <a href="https://github.com/Rayandri">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayandri&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Rayandri">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rayandri&theme=transparent" />
+  </a>
+  <a href="https://github.com/Rayandri">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayandri&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+
+---
+
 ## 📩 Get In Touch  
 [![Email](https://img.shields.io/badge/Email-pro@rayan--drissi.com-black?style=for-the-badge)](mailto:pro@rayan-drissi.com)  
